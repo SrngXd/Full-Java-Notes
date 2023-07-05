@@ -29,7 +29,7 @@ public class Array {
       
       // Array Traversing or Array Acess
       
-        String [] std = {"Sarang", "Prerna", "Shivani", "Yash"};
+        String [] std = {"Grapes", "Kiwi", "Apple", "Orange"};
 
         System.out.println(std.length);
 
